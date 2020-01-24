@@ -6,8 +6,6 @@ import rospy, os
 
 import SimpleHTTPServer
 
-
-
 def kill():
 
     os.system("kill -KILL " + str(os.getpid())) #強制シャットダウン
