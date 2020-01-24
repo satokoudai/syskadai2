@@ -70,7 +70,6 @@ find_package(catkin REQUIRED COMPONENTS
 #   DEPENDENCIES
 #   std_msgs  # Or other packages containing msgs
 # )
-
 ################################################
 ## Declare ROS dynamic reconfigure parameters ##
 ################################################
